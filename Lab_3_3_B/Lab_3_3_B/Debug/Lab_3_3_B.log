@@ -1,0 +1,26 @@
+﻿  Money.cpp
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(26,15): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(27,17): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(33,11): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(34,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(35,11): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(36,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(61,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(63,24): warning C4244: '=': conversion from 'long double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(69,15): warning C4244: 'argument': conversion from 'long double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(121,16): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(126,16): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(132,22): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(135,23): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(136,21): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(145,21): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(146,23): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(148,22): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Pair.cpp
+  Source.cpp
+  Generating Code...
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(77): warning C4715: 'operator==': not all control paths return a value
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(84): warning C4715: 'operator!=': not all control paths return a value
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(98): warning C4715: 'operator<=': not all control paths return a value
+W:\OOP\Lab_3_3_B\Lab_3_3_B\Money.cpp(91): warning C4715: 'operator>=': not all control paths return a value
+  Lab_3_3_B.vcxproj -> W:\OOP\Lab_3_3_B\Debug\Lab_3_3_B.exe
