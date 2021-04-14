@@ -1,0 +1,24 @@
+﻿  UnitTest1.cpp
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(23,15): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(24,17): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(31,11): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(32,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(33,11): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(34,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(59,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(61,24): warning C4244: '=': conversion from 'long double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(67,20): warning C4244: 'argument': conversion from 'long double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(119,15): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(124,16): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(130,21): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(133,23): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(134,21): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(143,21): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(144,23): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(146,22): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(75): warning C4715: 'operator==': not all control paths return a value
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(82): warning C4715: 'operator!=': not all control paths return a value
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(89): warning C4715: 'operator>=': not all control paths return a value
+W:\OOP\Lab_3_3_A\Lab_3_3_A\Money_publ.cpp(96): warning C4715: 'operator<=': not all control paths return a value
+     Creating library W:\OOP\Lab_3_3_A\Debug\UnitTest1.lib and object W:\OOP\Lab_3_3_A\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> W:\OOP\Lab_3_3_A\Debug\UnitTest1.dll
