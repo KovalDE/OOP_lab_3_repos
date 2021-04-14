@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+W:\OOP\Lab_3_3_C\Lab_3_3_C\Money.cpp(86,19): warning C4244: '=': conversion from 'long double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_3_3_C\Lab_3_3_C\Money.cpp(92,15): warning C4244: 'argument': conversion from 'long double' to 'long', possible loss of data
+W:\OOP\Lab_3_3_C\Lab_3_3_C\Money.cpp(100): warning C4715: 'operator==': not all control paths return a value
+W:\OOP\Lab_3_3_C\Lab_3_3_C\Money.cpp(107): warning C4715: 'operator!=': not all control paths return a value
+W:\OOP\Lab_3_3_C\Lab_3_3_C\Money.cpp(114): warning C4715: 'operator>=': not all control paths return a value
+W:\OOP\Lab_3_3_C\Lab_3_3_C\Money.cpp(121): warning C4715: 'operator<=': not all control paths return a value
+     Creating library W:\OOP\Lab_3_3_C\Debug\UnitTest1.lib and object W:\OOP\Lab_3_3_C\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> W:\OOP\Lab_3_3_C\Debug\UnitTest1.dll
